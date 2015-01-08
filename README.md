@@ -1,0 +1,1 @@
+Logs 'hello world' to the console indicating everything is OK.
