@@ -1,6 +1,6 @@
 {
   "name": "npm-hello-world",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Logs 'hello world' to the console indicating everything is OK.",
   "main": "index.js",
   "scripts": {
